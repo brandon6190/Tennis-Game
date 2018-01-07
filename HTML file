@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<body>
+	<!--This Line creats the game's canvas-->
+	<canvas id="gameCanvas" width="800" height="600"></canvas>
+	<!--Next Line is the javascript source code-->
+	<script src="code.js"></script>
+</body>
+</html>
